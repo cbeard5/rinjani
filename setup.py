@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="Connor Beard",
     author_email="Connor-Beard@hotmail.com",
-    description="A small example package",
+    description="A Web Scraping Package for Sentiment Analysis",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://pypi.org/legacy",
